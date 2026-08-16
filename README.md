@@ -2,7 +2,7 @@
 
 A to-do list that actually makes you remember. One self-contained HTML file — no install, no accounts, no server, no tracking.
 
-Open `remind-me.html` in any browser on a PC or phone, or send the file to someone and they get their own completely separate private list.
+Open `index.html` in any browser on a PC or phone, or send the file to someone and they get their own completely separate private list.
 
 ## What it does
 
